@@ -1,5 +1,3 @@
-# Alok-Chauhan
-MY GIT PORTFOLIO
 # Portfolio
 
 ## [Twitter Sentiment Analysis](https://github.com/alok2244/Sentiment_Analysis-)
